@@ -17,11 +17,11 @@
 // return array
 
 function rotateArray(array) {
+  if (!Array.isArray(array)) return undefined;
   if (array.length === 0) return [];
-  if (array === undefined) return undefined;
 
-  let rotatedArr = array.slice(1)
-  rotatedArr.push(array[0])
+  let rotatedArr = array.slice(1);
+  rotatedArr.push(array[0]);
 
   return rotatedArr;
 }
