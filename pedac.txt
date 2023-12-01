@@ -1,12 +1,14 @@
 // PROBLEM
 
-// EXAMPLES
-
 // INPUT
 // OUTPUT
+
+// RULES
+
+// QUESTIONS
+
+// EXAMPLES / TEST CASES
 
 // ALGO
 
 // CODE
-
-// TEST CASES
