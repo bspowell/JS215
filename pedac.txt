@@ -5,6 +5,10 @@
 
 // RULES
 
+// APPROACH 
+
+// EXAMPLES
+
 // QUESTIONS / EDGE CASES
 
 // ALGO

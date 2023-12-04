@@ -33,7 +33,7 @@
 
 // ALGO
 // iterate over the array to get greatest number
-  // let x = greatest number
+  // let currNum = greatest number
   // if current number > x, x = current number
 // once done, add x to newArray
 // remove number from array
@@ -50,9 +50,7 @@ function thirdMax(array) {
   let currMax = 0;
   let trackIndex = 0;
   while (counter < 3) {
-
     for (let index = 0; index < array.length - 1; index ++) {
-      console.log(currMax)
       if (array[index] > currMax) {
         currMax = array[index];
         trackIndex = index;
