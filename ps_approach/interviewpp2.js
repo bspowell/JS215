@@ -65,7 +65,7 @@ function thirdMax(array) {
 }
 
 // TEST CASES
-// console.log(thirdMax([3, 2, 1])); // 1
+console.log(thirdMax([3, 2, 1])); // 1
 console.log(thirdMax([1, 2, 3])); // 1
 // console.log(thirdMax([1, 2, 1, 3, 5, 6, 1, 4])); // 4
 // console.log(thirdMax([3, 'T', 1])); // 3
